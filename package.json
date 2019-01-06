@@ -9,7 +9,9 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "gatsby": "^2.0.33",
+    "highcharts": "^6.2.0",
     "react": "^16.5.1",
     "react-dom": "^16.5.1"
   }
