@@ -1,1 +1,1 @@
-# stock-price-app
+# Stock Price App
